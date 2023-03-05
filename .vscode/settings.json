@@ -1,0 +1,28 @@
+{
+  "git.enableSmartCommit": true,
+  "git.confirmSync": false,
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "explorer.compactFolders": false,
+  "explorer.confirmDragAndDrop": false,
+  "editor.codeActionsOnSave": {
+      "source.fixAll.eslint": true,
+      "source.organizeImports": true
+  },
+  "editor.tabSize": 2,
+  "editor.insertSpaces": true,
+  "diffEditor.ignoreTrimWhitespace": false,
+  "editor.detectIndentation": false,
+  "javascript.preferences.quoteStyle": "single",
+  "typescript.preferences.quoteStyle": "single",
+  "angular.view-engine": false,
+  "[markdown]": {
+      "editor.wordWrap": "off"
+  },
+  "editor.guides.bracketPairs": true,
+  "eslint.validate": ["javascript", "typescript"],
+  "stylelint.config": null,
+  "stylelint.validate": ["scss"],
+  "cSpell.language": "en",
+  "editor.formatOnSave": true
+}
