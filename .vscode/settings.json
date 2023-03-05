@@ -24,5 +24,9 @@
   "stylelint.config": null,
   "stylelint.validate": ["scss"],
   "cSpell.language": "en",
-  "editor.formatOnSave": true
+  "editor.formatOnSave": true,
+  "cSpell.words": [
+    "maplibre",
+    "maptiler"
+  ]
 }
